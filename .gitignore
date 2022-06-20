@@ -1,0 +1,7 @@
+mradrish/config.py
+*.pyc
+.idea/
+.project
+.pydevproject
+.directory
+.vscode
