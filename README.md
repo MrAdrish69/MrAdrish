@@ -187,6 +187,6 @@ The `__stats__()` function is for retrieving module statistics, eg number of use
 through the `/stats` command, which is only available to the bot owner.
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MrAdrish18/MrAdrish"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MrAdrish69/MrAdrish"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
